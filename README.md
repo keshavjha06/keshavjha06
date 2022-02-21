@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/keshavjha06" target="blank"><img src="https://img.shields.io/twitter/follow/keshavjha06?logo=twitter&style=for-the-badge" alt="keshavjha06" /></a> </p>
 
-- 🌱 I’m currently learning **REST Assured**
+- 🌱 I’m currently learning **Cloud Technologies**
 
-- 💬 Ask me about **Selenium , Appium , JMeter**
+- 💬 Ask me about **Selenium , Appium , REST Assured , JMeter**
 
 - 📫 How to reach me **keshavjha0610@gmail.com**
 
