@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React , Next.js**
 
-- 👨‍💻 All of my projects are available at [keshavjha06.github.io](keshavjha06.github.io)
+- 👨‍💻 All of my projects are available at [https://keshavjha06.github.io/](keshavjha06.github.io)
 
 - 💬 Ask me about **Playwright, Selenium, Appium, REST Assured And JMeter**
 
