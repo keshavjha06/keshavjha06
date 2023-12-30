@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/keshavjha06" target="blank"><img src="https://img.shields.io/twitter/follow/keshavjha06?logo=twitter&style=for-the-badge" alt="keshavjha06" /></a> </p>
 
-- 🌱 I’m currently learning **React , Next.js**
+- 🌱 I’m currently learning **ReactJS , Next.js**
 
 - 👨‍💻 All of my projects are available at [https://keshavjha06.github.io/](https://keshavjha06.github.io/)
 
