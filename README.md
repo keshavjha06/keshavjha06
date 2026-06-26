@@ -2,8 +2,6 @@
 
 ### A passionate QA Automation Engineer from India
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavjha06&label=Profile views&color=0e75b6&style=flat" alt="keshavjha06" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshavjha06" alt="keshavjha06" /></a> </p>
 
 - 🌱 I'm currently learning **AI Agents, LLM and AI-ML**
