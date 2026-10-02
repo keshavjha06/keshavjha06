@@ -3,7 +3,7 @@
 ### A passionate QA Automation Engineer
 
 # 💫 About Me:
-🌱 I'm currently learning AI Agents, LLM and AI-ML<br>💬 Ask me about Test Automation, Playwright, Selenium, Appium, REST Assured And JMeter<br>⚡ Fun fact I love debugging<br>👨‍💻 All of my projects are available at **[https://keshavjha06.github.io](https://keshavjha06.github.io)**<br>
+🌱 I'm currently learning AI Agents, LLM and AI-ML<br>💬 Ask me about Test Automation, Playwright, Selenium, Appium, REST Assured And k6<br>⚡ Fun fact I love debugging<br>👨‍💻 All of my projects are available at **[https://keshavjha06.github.io](https://keshavjha06.github.io)**<br>
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/keshavjha06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshavjha06" height="30" width="40" /></a>
